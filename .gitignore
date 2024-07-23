@@ -1,0 +1,7 @@
+#WwiseProject
+d1_wwise/.cache
+d1_wwise/*.akd
+d1_wwise/*.prof
+d1_wwise/*.validationcache
+d1_wwise/*.wsettings
+d1_wwise/Soundcaster Sessions/*
